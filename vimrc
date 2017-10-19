@@ -7,6 +7,7 @@ colorscheme industry
 set encoding=utf-8
 set nu
 set clipboard=unnamedplus
+set hlsearch
 
 "python ide
 
